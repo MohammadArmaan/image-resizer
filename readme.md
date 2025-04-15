@@ -25,7 +25,7 @@ This project is a simple React TypeScript component that allows users to upload 
 
 ## Live Website
 
-🔗 [https://image-resizer.vercel.app](https://image-resizer.vercel.app)
+🔗 [https://image-resizer.vercel.app](https://cv-image-resizer.vercel.app)
 
 
 ## Author
