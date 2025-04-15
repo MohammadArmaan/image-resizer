@@ -164,6 +164,18 @@ function App() {
                     <div className="space-y-6">
                         {/* Upload Section */}
                         <div className="flex justify-center">
+                            {/* <label className="w-full max-w-xs flex flex-col items-center px-4 py-6 bg-gray-50 rounded-lg border-2 border-dashed border-gray-300 cursor-pointer hover:bg-gray-100">
+                                <Upload className="h-12 w-12 text-gray-400" />
+                                <span className="mt-2 text-base text-gray-600">
+                                    Upload image
+                                </span>
+                                <input
+                                    type="file"
+                                    className="hidden"
+                                    accept="image/*"
+                                    onChange={handleImageUpload}
+                                />
+                            </label> */}
                             <ImageUploader handleImageUpload={handleImageUpload} />
                         </div>
 
